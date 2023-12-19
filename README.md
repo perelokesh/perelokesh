@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=perelokesh.perelokesh" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokesh!;" />
@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **TypeScript, GraphQL, Elastic Search**
+ 
+ 🌱 I’m currently learning **TypeScript, GraphQL, NestJS**
 
 
  </div>
@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,dynamodb,mysql,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,graphql,express,firebase,mongodb,dynamodb,mysql,nextjs" /><br>
 </div>
 
 <br/>
