@@ -12,7 +12,7 @@
  
  
  
- 🌱 I’m currently learning **TypeScript, GraphQL, NestJS**
+ 🌱 I’m currently learning **TypeScript, GraphQL, Python and Django**
 
 
  </div>
